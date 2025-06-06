@@ -1,2 +1,1 @@
 test
-# hexlet-git
